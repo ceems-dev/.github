@@ -11,10 +11,10 @@
 
 # 👩‍💻 Useful resources
 
- Demo: https://ceems-demo.myaddr.tools 
+ Demo: https://demo.ceems.dev 
  
- Docs: https://ceems-dev.github.io/ceems/docs/
+ Docs: https://ceems.dev/docs/
  
- API Docs: https://ceems-dev.github.io/ceems/docs/category/api
+ API Docs: https://ceems.dev/docs/category/api
  
  
