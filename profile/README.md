@@ -11,7 +11,7 @@
 
 # 👩‍💻 Useful resources
 
- Demo: https://demo.ceems.dev 
+ Demo: https://demo.ceems.dev/grafana 
  
  Docs: https://ceems.dev/docs/
  
